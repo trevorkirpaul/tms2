@@ -6,3 +6,4 @@
 /**
  * this is a multiline comment
  */
+const _name = "feature 2";
